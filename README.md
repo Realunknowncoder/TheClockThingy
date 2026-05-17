@@ -1,4 +1,4 @@
-# 🕰️ OG-Clock
+# 🕰️ TheClockThingy
 > *The ideal clock for all gamers*
 
 [insert Zine page here]
@@ -10,7 +10,7 @@
 
 ## ℹ️ Overview
 
-Hi, I'm Yassine Moustarziq and wyou might be wondering: What is the OG-Clock? Well it's a normal clock inspired by one of the most useless items in Minecraft, the clock! So why not bring that useless item to life and make it as a functional decorative clock! Why am I making one? Well because I can and I need to fill my wall with something :3 !
+Hi, I'm Yassine Moustarziq and wyou might be wondering: What is TheClockThingy? Well it's a normal clock inspired by one of the most useless items in Minecraft, the clock! So why not bring that useless item to life and make it as a functional decorative clock! Why am I making one? Well because I can and I need to fill my wall with something :3 !
 
 ## ⬇️ Components:
 
